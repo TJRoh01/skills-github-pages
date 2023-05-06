@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 # Test
-some content
+some content 2
